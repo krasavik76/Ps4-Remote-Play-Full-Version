@@ -241,4 +241,4 @@ This repository serves as the official landing page for PS4 Remote Play. The sof
 **Get the most recent version of PS4 Remote Play today!**
 
 ---
-**Last updated:** 2026-09-22 09:09:23 UTC
+**Last updated:** 2026-09-22 14:27:20 UTC
